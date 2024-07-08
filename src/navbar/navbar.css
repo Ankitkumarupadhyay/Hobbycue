@@ -1,0 +1,204 @@
+.navbar {
+    width: 1440px;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+
+    /* border: 2px solid red; */
+    color: red;
+
+}
+
+.logo {
+    position: absolute;
+    width: 293.26px;
+    height: 60px;
+    top: 10px;
+    left: 97px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.ip {
+    position: absolute;
+    width: 260px;
+    height: 36px;
+    top: 20px;
+    left: 425px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+    border: 1px solid rgba(235, 237, 240, 1);
+}
+
+.ip ::placeholder {
+    width: 79px;
+    height: 16px;
+    top: 32px;
+    left: 437px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.search {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    left: 685px;
+    gap: 0px;
+    border-radius: 0px 8px 8px 0px;
+    opacity: 0px;
+
+}
+
+.explore {
+    position: absolute;
+    width: 107px;
+    height: 24px;
+    top: 28px;
+    left: 815px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    cursor: pointer;
+}
+
+.eximg1 {
+    width: 24px;
+    height: 24px;
+    top: 28px;
+    left: 815px;
+    padding: 2.04px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.eximg2 {
+    width: 11.26px;
+    height: 6.72px;
+    top: 9.94px;
+    left: 6.37px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.excon {
+    width: 51px;
+    height: 22px;
+    top: 29px;
+    left: 843px;
+    gap: 0px;
+    opacity: 0px;
+    color: black;
+}
+
+.hb {
+    position: absolute;
+    width: 114px;
+    height: 24px;
+    top: 28px;
+    left: 946px;
+    gap: 0px;
+    opacity: 0px;
+    cursor: pointer;
+    display: flex;
+}
+
+.hbimg1 {
+    width: Fixed (24px)px;
+    height: Fixed (24px)px;
+    top: 28px;
+    left: 946px;
+    gap: 10px;
+    opacity: 0px;
+
+}
+
+.hbimg2 {
+    width: 11.26px;
+    height: 6.72px;
+    top: 9.94px;
+    left: 6.37px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.hbcon {
+    width: 58px;
+    height: 22px;
+    top: 30px;
+    left: 974px;
+    gap: 0px;
+    opacity: 0px;
+
+    color: black;
+}
+.bkm{
+    position: absolute;
+    width: 24px;
+height: 24px;
+top: 28px;
+left: 1084px;
+gap: 0px;
+opacity: 0px;
+cursor: pointer;
+}
+.noti{
+    width: 24px;
+height: 24px;
+top: 28px;
+left: 1132px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+cursor: pointer;
+}
+
+.product{
+    width: 24px;
+height: 24px;
+top: 28px;
+left: 1180px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+cursor: pointer;
+}
+
+.siBtn{
+    width: 112px;
+height: 40px;
+top: 20px;
+left: 1228px;
+gap: 0px;
+border-radius: 8px 8px 8px 8px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+position: absolute;
+border: 1px solid rgba(128, 100, 162, 1);
+cursor: pointer;
+}
+.elist{
+    width: Hug (220px)px;
+height: Hug (210px)px;
+top: 80px;
+left: 818px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+box-shadow: 0px 0px 2px 0px rgba(147, 156, 163, 0.36);
+box-shadow: 0px 8px 12px 0px rgba(147, 156, 163, 0.12);
+display: none;
+}
+.explore:hover ~ .elist{
+    display: inline-block;
+}
+    
